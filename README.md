@@ -1,3 +1,7 @@
+## Parcours français
+
+Une analyse en huit chapitres étudie la provenance, la fraîcheur et la consommation défensive des prix HyperEVM : [ouvrir le parcours](docs/fr/README.md).
+
 ### HyperEVM oracle for HyperLend
 
 ---
